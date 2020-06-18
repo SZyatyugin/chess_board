@@ -1,4 +1,10 @@
+
 #canvas{
     border:solid;
-    margin: 100px 0 0 100px;
+    margin: 200px 0 0 35%;
+}
+div{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
 }
